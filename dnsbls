@@ -161,7 +161,6 @@ old.spam.dnsbl.sorbs.net
 openproxy.bls.digibase.ca
 opm.tornevall.org
 orvedb.aupads.org
-pbl.spamhaus.org
 phishing.rbl.msrbl.net
 plus.bondedsender.org
 pofon.foobar.hu
@@ -213,10 +212,8 @@ sa-accredit.habeas.com
 sa.senderbase.org
 safe.dnsbl.prs.proofpoint.com
 safe.dnsbl.sorbs.net
-sbl-xbl.spamhaus.org
 sbl.nszones.com
 sbl.spamdown.org
-sbl.spamhaus.org
 schizo-bl.kundenserver.de
 score.spfbl.net
 singular.ttk.pte.hu
@@ -236,13 +233,18 @@ spam.spamrats.com
 spamblock.kundenserver.de
 spambot.bls.digibase.ca
 spamguard.leadmon.net
+sbl-xbl.spamhaus.org
+sbl.spamhaus.org
+swl.spamhaus.org
+xbl.spamhaus.org
+zen.spamhaus.org
+pbl.spamhaus.org
 spamlist.or.kr
 spamrbl.imp.ch
 spamsources.fabel.dk
 srn.surgate.net
 st.technovision.dk
 superblock.ascams.com
-swl.spamhaus.org
 tor.dan.me.uk
 tor.dnsbl.sectoor.de
 tor.efnet.org
@@ -270,7 +272,5 @@ work.drbl.caravan.ru
 work.drbl.gremlin.ru
 wormrbl.imp.ch
 worms-bl.kundenserver.de
-xbl.spamhaus.org
 z.mailspike.net
-zen.spamhaus.org
 zombie.dnsbl.sorbs.net
