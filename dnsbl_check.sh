@@ -68,7 +68,7 @@ while read addr; do
                 if [ -n "$output" ]; then
                     echo "$host ($addr) is listed in $dnsbl"
                     echo Lookup output:
-                    echo "$output" | mail -s "\n$host ($addr) is listed in $dnsbl \n\n $output" $email
+                    echo "$output" | mail -s "DNSBL Check" $email
                     continue
                 fi
             fi
